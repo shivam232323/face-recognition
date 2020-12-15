@@ -1,6 +1,5 @@
 {
   "name": "smart-brain",
-  "homepage": "https://shivam2323.github.io/face-recognition",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
